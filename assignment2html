@@ -1,0 +1,53 @@
+<html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<>, initial-scale=1.0">
+   <link rel="stylesheet" href="mystyle.css"
+</head>
+<body>
+    <nav>
+        <a href="http://www.google.com" target="_blank">google</a>
+        <a href="about.html">about</a>
+    </nav>
+ <ul>
+     <li>Item 1</li>
+    <li>Item 2</li>
+     <li>Item 3</li>
+     <li>Item 4</li>
+ </ul>
+
+ <ol class="task-list">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+ </ol>
+ 
+ <ol type="I">
+    <li value="3">third item</li>
+    <li>fourth item</li>
+    <li>fifth item</li>
+</ol>
+
+ <ul class="task-list">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+ </ul>
+
+    <header class="site-header">
+    <h1>F  S  D  I -  101</h1>
+    <h2>Robert Tulanko</h2>  
+  </header> 
+  <main>
+      <h3>Short Bio</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, vitae. Magni earum distinctio ducimus voluptatibus ipsa, fugit obcaecati necessitatibus maiores ipsam sit totam voluptates saepe dolores pariatur! Dolor, optio omnis!</p>
+ <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis culpa aspernatur recusandae facere, magni adipisci porro voluptate ea incidunt itaque doloremque quas architecto, consequatur iusto laudantium? Esse quaerat porro velit.</p>
+ <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta, saepe laudantium atque delectus eveniet dolorem error veniam ipsum itaque repellat alias! Exercitationem ea a possimus vitae enim laborum excepturi id.</p>
+
+    </main> 
+</body>
+</html></html>
